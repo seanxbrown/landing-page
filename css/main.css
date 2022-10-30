@@ -16,7 +16,7 @@ a.nav-link {
 
 #landing {
     height: 75vh;
-    background-color: var(--secondary);
+    background-image: linear-gradient(to right, var(--secondary), var(--tertiary));
     color: #fff
 }
 
@@ -29,7 +29,7 @@ a.nav-link {
 }
 
 #get-started {
-    background-color: var(--secondary);
+    background-image: linear-gradient(to right, var(--secondary), var(--tertiary));
     color: #fff
 }
 
