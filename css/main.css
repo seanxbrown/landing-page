@@ -1,6 +1,19 @@
+:root {
+    --button: #E6AD00;
+    --button-hover: #f2cc59;
+    --primary: #001A9C;
+    --secondary: #1940FF;
+    --tertiary: #0026E6;
+}
+
+a.nav-link {
+    color: var(--primary);
+}
 
 #landing {
     height: 75vh;
+    background-color: var(--secondary);
+    color: #fff
 }
 
 .what-we-do-item-image {
@@ -11,3 +24,19 @@
     max-width: 200px;   
 }
 
+#get-started {
+    background-color: var(--secondary);
+    color: #fff
+}
+
+
+
+button.btn {
+    background-color: var(--button)
+
+}
+
+button.btn:hover {
+    background-color: var(--button-hover);
+    color: #000;
+}
