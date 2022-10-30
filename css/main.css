@@ -2,3 +2,7 @@
 #landing {
     height: 75vh;
 }
+
+.what-we-do-item-image {
+    max-width: 450px;
+}
