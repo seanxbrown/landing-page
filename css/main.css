@@ -1,3 +1,7 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 :root {
     --button: #E6AD00;
     --button-hover: #f2cc59;
